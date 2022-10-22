@@ -30,7 +30,7 @@ the reason why China is lacking high-quality knowledge interchange platforms:
     - Lack of proper commenting, upvote, and categorizing mechanisms,
         such as [Jianshu](https://www.jianshu.com/p/3ef5e96c7669).
 
-## Market and Potential Customer
+## Market and Potential Customers
 
 The internet is open to everyone,
 therefore anyone willing to interchange knowledge
@@ -50,8 +50,17 @@ FoRum should be a good platform to help them keep learning.
 
 ## Growth Strategy
 
-- Does the project have significant growth potential and approaches
-    to scale up the business?
+To help sustain FoRum's "purity" as a knowledge interchange platform,
+FoRum shall become a non-profit, not-for-profit, or an organizations of the sort.
+FoRum shall avoid Ads and mandatory subscription fees.
+Instead, FoRum shall try to operate with a minimum amount of content moderators
+and
+[rely on the users to moderate the content](https://sichanghe.github.io/doctrine/#basic-approach).
+
+FoRum shall accept donations from customers and organizations.
+Such donations can either be subscription-based or one-time.
+The donations will be used to pay for the maintenance fees
+and FoRum's maintainers' salary.
 
 ## Finance
 
