@@ -17,7 +17,8 @@ we need:
 - Users who have high-quality knowledge and are willing to interchange it.
 - A platform that helps users interchange information.
 
-Examples include Reddit and Stack Overflow.
+Examples include Reddit and
+[Stack Overflow](https://stackoverflow.com/questions/7165749/open-file-in-a-relative-location-in-python).
 
 Speculate that,
 the reason why China is lacking high-quality knowledge interchange platforms:
@@ -29,9 +30,23 @@ the reason why China is lacking high-quality knowledge interchange platforms:
     - Lack of proper commenting, upvote, and categorizing mechanisms,
         such as [Jianshu](https://www.jianshu.com/p/3ef5e96c7669).
 
-## Market Opportunity and Customer Analysis
+## Market and Potential Customer
 
-- How well are the market and the potential customers identified and analyzed?
+The internet is open to everyone,
+therefore anyone willing to interchange knowledge
+and have access to the internet
+is our potential customer.
+
+University students are a special group.
+They have the urge need to interchange knowledge
+and they have access to the internet.
+This means that the majority of our customers probably will be
+university students.
+
+Anyone who is trying to self-teach is also our potential customer.
+In this age,
+any intelligent people should be learning throughout their lives.
+FoRum should be a good platform to help them keep learning.
 
 ## Growth Strategy
 
