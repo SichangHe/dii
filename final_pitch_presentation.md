@@ -98,10 +98,3 @@ so the total per month would be around $123.324 per month.
 That would be $1479.888 for one year.
 
 ### Development Cost
-
-## Presentation
-
-Were the speakers confident, and did they respond well to questions?
-Was the presentation clear, concise, and professional communication?
-Did the presentation effectively use graphs, tables, and body language?
-Did the presentation use the correct terminologies?
