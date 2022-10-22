@@ -64,8 +64,40 @@ and FoRum's maintainers' salary.
 
 ## Finance
 
-Is the budget plan for the project clear?
-Are the financial expectations and funding requirements for the project reasonable?
+### Server Cost
+
+For deployment,
+Amazon Web Services is the best choice.
+AWS is the most popular web services provider around the world.
+It supports the Chinese region.
+And, its services are flexible.
+
+If we choose the lowest-spec machines on AWS:
+
+[Database cost](https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#launch-dbinstance:gdb=false;s3-import=false)
+is $0.241 per hour.
+
+[Virtual machine cost](https://us-east-1.console.aws.amazon.com/ec2/v2/home?region=us-east-1#LaunchInstances:)
+is $0.023 per hour.
+
+In the costs above,
+the hours for database cost is calculated
+when the database is active,
+which I suspect will be about 2 hours per day,
+so the price for each month would be $14.46.
+The hours for Virtual machine cost is calculated
+when the server is on.
+If the server is on 24/7,
+then the price for each month would be $16.56.
+So, the total cost per month would be $31.02.
+
+However, if we choose machines that are suited for production,
+then the database cost would be $1.057 per hour
+and the virtual machine cost would be $0.0832 per hour,
+so the total per month would be around $123.324 per month.
+That would be $1479.888 for one year.
+
+### Development Cost
 
 ## Presentation
 
